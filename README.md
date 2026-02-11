@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashish Verma/Ashish Verma-/blob/main/github-header-banner.png)
+
 # Ashish Verma<h1 align="center">Hi 👋, I'm Ashish Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/AshishVerma-CSE/ASHISH-VERMA/blob/main/my%20image.jpeg?raw=true"/>
