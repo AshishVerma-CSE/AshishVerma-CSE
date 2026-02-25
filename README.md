@@ -1,6 +1,8 @@
 
 # Ashish Verma<h1 align="center">Hi 👋, I'm Ashish Verma</h1>
-<h3 align="center">A passionate Web developer </h3>
+<h3 align="center">Computer Science Student | Aspiring Software Engineer  
+Skilled in HTML, CSS, Java, Python, SQL, DBMS & Data Structures  
+Focused on problem-solving and writing clean, efficient code.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/AshishVerma-CSE/ASHISH-VERMA/blob/main/my%20image.jpeg?raw=true"/>
 <p align="left"> <a href="https://twitter.com/anuragyadav2215" target="blank"><img src="https://img.shields.io/twitter/follow/AshishVerma-CSE?logo=twitter&style=for-the-badge" alt="anuragyadav2215" /></a> </p>
 
